@@ -1,0 +1,11 @@
+caja 12.3
+tanque 14.5
+mesa 135.6
+valvula 192.1
+pelota 17.15
+torno 68.1
+caballo 78.4
+auto 245.56
+elefante 1643.12
+cabeza 5.6
+
